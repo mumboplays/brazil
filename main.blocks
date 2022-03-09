@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="xPS2pp6prydeL!gL)MU%" x="509" y="-78"><statement name="HANDLER"><block type="playMelody" id="P6.RBI/On:ZJ.#U51J`N"><value name="melody"><shadow type="melody_editor" id="erYL[ZAaojk.*CAxpV*E"><field name="melody">"C5 C5 C5 C5 C5 C5 C5 C5 "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="*IP=@]Lf0-;as$)5Itd}"><mutation min="40" max="500" label="Tempo" precision="0"/><field name="SLIDER">120</field></shadow></value><next><block type="radio_datagram_send_string" id="z;(G*1$CgpBvnLI-[E/l"><value name="msg"><shadow type="text" id="rSy_r7O4.yNBv!mh]XXW"><field name="TEXT"/></shadow></value></block></next></block></statement></block><block type="pxt-on-start" id="8@qWpo.KJ#Dbga;w$KSA" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="o}XKYT{39jut~XJSjb$G"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        . # . # . 
+        # . . . #
+        `</field></block></statement></block><block type="basic_show_arrow" id="g9.|KI{?4H?q(!.9OLSq" disabled="true" x="280" y="351"><value name="i"><shadow type="device_arrow" id=")T5jECAXwx=vt1-J%,j1" disabled="true"><field name="arrow">ArrowNames.North</field></shadow></value></block></xml>
